@@ -42,9 +42,7 @@ __6s:__ Number of sixes hit.
 
 __Dot Ball Percentage:__ Percentage of dot balls faced.
 
-__Format:__ The format of the game (Test, ODI, T20)
-
-
+__Format:__ The format of the game (Test, ODI, T20).
 
 
 ## 2. Bowling Stats Table
@@ -75,6 +73,10 @@ __6s:__ Number of sixes conceded.
 __Dot Ball Percentage:__ Percentage of dot balls bowled.
 
 __Format:__ The format of the game (Test, ODI, T20).
+
+
+
+
 # Dashboard
 Each table is complemented by a dedicated dashboard that visually represents Virat Kohli's performance metrics. The dashboards are designed to offer quick insights and facilitate a deeper understanding of his career trajectory.
 
@@ -86,13 +88,18 @@ ii. Allows comparison of performance across different formats and years.
 
 iii. Interactive charts highlight significant milestones like centuries and half-centuries.
 
+![Screenshot 2024-08-22 124016](https://github.com/user-attachments/assets/58060518-82c6-4e64-a6d6-0e468e6dd9c4)
+
 ## Bowling Performance Dashboard:
 
 i. Illustrates key bowling metrics such as wickets taken, economy rate, and strike rate.
 
 ii. Enables analysis of Kohli's impact as a bowler across formats and over the years.
 
-iii. Features visual representation of his best bowling performances and consistency.![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95P1c2KmZxY5zlEeBSFQKBWV6EtoZHrwnDfOagRBEV3v_uyHy3J3R6qUe&s=10)
+iii. Features visual representation of his best bowling performances and consistency.
+
+![Screenshot 2024-08-22 124056](https://github.com/user-attachments/assets/34717bd4-8a85-46af-b7fc-809a6d9fa505)
+
 # Tools and Techniques
 i. Excel: Used for data organization, analysis, and visualization.
 
