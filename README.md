@@ -80,6 +80,7 @@ __Format:__ The format of the game (Test, ODI, T20).
 # Dashboard
 Each table is complemented by a dedicated dashboard that visually represents Virat Kohli's performance metrics. The dashboards are designed to offer quick insights and facilitate a deeper understanding of his career trajectory.
 
+
 ## Batting Performance Dashboard:
 
 i. Visualizes trends in runs scored, batting average, strike rate, and other key metrics.
@@ -88,7 +89,8 @@ ii. Allows comparison of performance across different formats and years.
 
 iii. Interactive charts highlight significant milestones like centuries and half-centuries.
 
-![Screenshot 2024-08-22 124016](https://github.com/user-attachments/assets/58060518-82c6-4e64-a6d6-0e468e6dd9c4)
+
+![Screenshot 2024-08-22 124016](https://github.com/user-attachments/assets/7c3a478a-1413-4cdf-9feb-7f16dd2f229d)
 
 ## Bowling Performance Dashboard:
 
@@ -98,7 +100,8 @@ ii. Enables analysis of Kohli's impact as a bowler across formats and over the y
 
 iii. Features visual representation of his best bowling performances and consistency.
 
-![Screenshot 2024-08-22 124056](https://github.com/user-attachments/assets/34717bd4-8a85-46af-b7fc-809a6d9fa505)
+![Screenshot 2024-08-22 124056](https://github.com/user-attachments/assets/f7cdb037-3820-45f1-b051-53b8c114a825)
+
 
 # Tools and Techniques
 i. Excel: Used for data organization, analysis, and visualization.
